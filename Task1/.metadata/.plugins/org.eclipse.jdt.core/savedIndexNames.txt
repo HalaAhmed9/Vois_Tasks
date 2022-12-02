@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\lenovo\Desktop\Vois_Tasks\Task1\.metadata\.plugins\org.eclipse.jdt.core
+2600818484.index
+1865797976.index
+3290880793.index
+521605994.index
+3162867021.index
